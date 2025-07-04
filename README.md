@@ -1,5 +1,8 @@
 # 💰 Expense Tracking Web Application
 
+## 🔗 Live Demo  
+[Click here to view the site](https://divya-git-pixel.github.io/expense-tracker-website/)
+
 A dynamic frontend-only expense tracker built with **HTML, CSS, and JavaScript**. Created as a real-time second-year project to help users track incomes and expenses with local persistence using browser `localStorage`.
 
 ---
@@ -22,22 +25,12 @@ A dynamic frontend-only expense tracker built with **HTML, CSS, and JavaScript**
 
 ---
 
-## 📸 Screenshots
-
-![Homepage](assets/screenshots/homepage.jpg)
-![Transaction Added](assets/screenshots/transaction-added.jpg)
-
-
 ```html
 expense-tracker-website/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
-├── assets/ # Static files
-│ └── screenshots/ # Project screenshots
-│ ├── homepage.jpg
-│ └── transaction-added.jpg
 
 ## 📍 Status
 
